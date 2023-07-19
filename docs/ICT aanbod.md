@@ -17,8 +17,9 @@ Om te kunnen sturen op kwalitatief goede inbouw van standaarden en het risico op
 ## Hoe weet u welke leveranciers het koppelvlak beschikbaar hebben?
 De [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/) biedt u in twee simpele stappen een overzicht van softwareapplicaties die de standaard Regie- Zaakservices 1.0 ondersteunen:
 
-Stap 1: Ga naar de GEMMA Softwarecatalogus, selecteer: ‘alle pakketten’.
-Stap 2: Kies in de linkerkolom onder de kop “standaarden” Regie- Zaakservices. Het overzicht wordt gegenereerd met alle softwareproducten van de verschillende leveranciers waarbij wordt aangegeven of de standaard in gebruik of in ontwikkeling is.
+* Stap 1: Ga naar de GEMMA Softwarecatalogus, selecteer: ‘alle pakketten’.
+* Stap 2: Kies in de linkerkolom onder de kop “standaarden” Regie- Zaakservices. Het overzicht wordt gegenereerd met alle softwareproducten van de verschillende leveranciers waarbij wordt aangegeven of de standaard in gebruik of in ontwikkeling is.
+
 Dit overzicht is ook te bereiken via deze [directe link](https://www.softwarecatalogus.nl/pakketten/norm_version/Regie-%20en%20zaakservices%201%252E0).
 
 ## Staat uw huidige softwareproduct niet in het overzicht?
