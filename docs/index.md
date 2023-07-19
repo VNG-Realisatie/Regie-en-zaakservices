@@ -12,7 +12,7 @@ Regie- en zaakservices is een op StUF-ZKN gebaseerde berichtenstandaard voor de 
 
 ## Inleiding
 
-StUF Zaakgericht regievoeren is een op StUF-ZKN gebaseerde berichtenstandaard voor de uitwisseling van gegevens tussen onder meer zaaksystemen en regiesystemen in het sociaal domein. Deze standaard leidt tot een uniforme manier van gegevensuitwisseling tussen systemen die een rol spelen in het sociaal domein.
+StUF Zaakgericht regievoeren is een op [StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) gebaseerde berichtenstandaard voor de uitwisseling van gegevens tussen onder meer zaaksystemen en regiesystemen in het sociaal domein. Deze standaard leidt tot een uniforme manier van gegevensuitwisseling tussen systemen die een rol spelen in het sociaal domein.
 
 Dit koppelvlak bestaat uit een scherpere beschrijving van het toepassen van een aantal services uit de Zaak- en Documentservices en een aantal nieuwe berichttypen.
 
