@@ -6,7 +6,7 @@ title: Compliancy Regie- en zaakservices
 
 ## Inleiding
 
-De standaard Regie en zaakservices 1.0 is op 7 oktober 2015 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
+De standaard [Regie en zaakservices 1.0](https://vng-realisatie.github.io/Regie-en-zaakservices/Documentatie) is op 7 oktober 2015 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
 
 Voor een juiste toepassing van de standaard Regie en zaakservices worden door KING compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de Regie en zaakservices 1.0.
 
@@ -53,7 +53,7 @@ De specificatie beschrijft services voor de volgende referentiecomponenten:
   * Subsidies
   * Wmo-voorzieningenadministratie
   * WWB-ondersteuning
-  * - - -
+  * -
 
 Voor een omschrijving van wat het betreffende referentiecomponent inhoudt en welke softwareproducten van welke leveranciers daar invulling aan geven, wordt verwezen naar de [GEMMA Softwarecatalogus](http://www.gemmasoftwarecatalogus.nl/).
 
