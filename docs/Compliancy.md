@@ -57,7 +57,7 @@ De specificatie beschrijft services voor de volgende referentiecomponenten:
 
 Voor een omschrijving van wat het betreffende referentiecomponent inhoudt en welke softwareproducten van welke leveranciers daar invulling aan geven, wordt verwezen naar de [GEMMA Softwarecatalogus](http://www.gemmasoftwarecatalogus.nl/).
 
-<img src="./images/Regie_en_zaakservices_architectuur.png.png" width="600"/>
+<img src="./images/Regie_en_zaakservices_architectuur.png" width="600"/>
 
 ## Consumer en provider testen
 Bij elke test is middels een P of C aangegeven of het een Provider of Consumer test betreft. Bij een provider test moet de te testen applicatie een service beschikbaar stellen aan het StUF Testplatform; het StUF Testplatform zal één of meerdere berichten versturen naar de te testen applicatie. In geval van een consumer test levert het StUF Testplatform een service aan de te testen applicatie. De te testen applicatie moet in deze gevallen één of meerdere berichten versturen naar het StUF Testplatform. Afhankelijk of een test een provider of consumer test is verwacht het StUF Testplatform dus een bericht van de te testen applicatie of verstuurt het StUF Testplatform een bericht naar de te testen applicatie.
