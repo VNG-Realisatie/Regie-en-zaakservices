@@ -4,6 +4,10 @@ title: Regie- en zaakservices
 ---
 # Regie- en zaakservices
 
+**Actuele versie:** 1.0  
+**Beheerder**  VNG Realisatie<br/>
+**Afkorting**  StUF-RZS
+
 Regie- en zaakservices is een op StUF-ZKN gebaseerde berichtenstandaard voor de uitwisseling van gegevens tussen onder meer zaaksystemen en regiesystemen voor het zaakgericht regievoeren in het sociaal domein.
 	
 | Versie | Status | Toelichting |
