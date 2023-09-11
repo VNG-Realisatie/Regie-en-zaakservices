@@ -5,8 +5,7 @@ title: ICT aanbod Regie- en zaakservices
 # ICT aanbod Regie- en zaakservices
 
 ## Afspraken met leveranciers
-* In het [addendum Regie- Zaakservices](https://www.softwarecatalogus.nl/addenda/addendum/Regie-%20Zaakservices%201%252E0) zijn afspraken gemaakt over implementatie van deze standaard in software;
-* Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
+Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
 
 ## Welke softwareproducten ondersteunen de standaard?
 De standaard is in lijn met GEMMA en maakt gebruik van onderliggende standaarden RGBZ 1.0, [StUF ZKN 3.1](https://vng-realisatie.github.io/StUF-ZKN/) en CMIS 1.0. Daarnaast maakt de standaard gebruik van de eindproduct standaard [Zaak- Documentservices](https://vng-realisatie.github.io/Zaak-en-Documentservices/). In de [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/) vindt u een overzicht van alle softwareproducten van leveranciers die zijn gekoppeld aan de standaard Regie- Zaakservices 1.0.
