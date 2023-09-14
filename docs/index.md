@@ -27,11 +27,6 @@ het uitwisselen van gegevens t.b.v. het uitvoeren van deelplannen (zaken) via ba
 met het regiesysteem zicht hebben over de voortgang van de deelplannen;
 in de rest van de gemeente zicht hebben of er een gezinsplan speelt als er een aanvraag binnenkomt.
 
-## Community voor vragen en wijzigingsverzoeken
-Voor het indienen van wijzigingsverzoeken en het stellen van vragen kan gebruik worden gemaakt van de [community Regie- en zaakservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20RZS). Bij wijzigingsverzoeken vragen we u de volgende zaken op te nemen:
+## Discussieplatform
 
-* Onderbouwing voor het wijzingsverzoek
-* De eigen voorkeur qua oplossing, inclusief voor- en nadelen
-* Eventuele andere oplossingen inclusief voor en nadelen
-
-Alle leveranciers en gemeenten kunnen dan online reageren op een wijzigingsverzoek. KING zal naar aanleiding van deze reacties een wijzigingsvoorstel doen dat in lijn is met de voorkeur in de reacties. Dit voorstel wordt vervolgens ter besluitvorming voorgelegd aan de werkgroep Regie- en zaakservices. Hoe uitgebreider de online discussie is (inclusief argumenten), hoe korter de discussie tijdens bijeenkomsten kan zijn.
+Hier kunt u terecht voor de nieuwste discussies m.b.t. [Regie- en zaakservices](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20RZS).
