@@ -26,5 +26,5 @@ De specificatie beschrijft services voor de volgende referentiecomponenten:
 
 Voor een omschrijving van wat het betreffende referentiecomponent inhoudt en welke softwareproducten van welke leveranciers daar invulling aan geven, wordt verwezen naar de [GEMMA Softwarecatalogus](http://www.gemmasoftwarecatalogus.nl/).
 
-<img src="./images/Regie_en_zaakservices_architectuur.png" width="600"/>
+<img src="./images/Regie_en_zaakservices_architectuur.png" width="800"/>
 
