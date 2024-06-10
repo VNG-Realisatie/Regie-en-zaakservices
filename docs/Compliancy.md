@@ -4,6 +4,12 @@ title: Compliancy Regie- en zaakservices
 ---
 # Compliancy Regie- en zaakservices
 
+|   |   |
+| --- | --- |
+| Testsetversie: | 1.0 |
+| Status | In gebruik |
+| Datum laatst gewijzigd | 2 juli 2014 |
+
 ## Inleiding
 
 De standaard [Regie en zaakservices 1.0](https://vng-realisatie.github.io/Regie-en-zaakservices/Documentatie) is op 7 oktober 2015 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
