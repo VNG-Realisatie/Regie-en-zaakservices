@@ -7,12 +7,12 @@ title: Regie- en zaakservices
 **Actuele versie:** 1.0  
 **Beheerder:**  VNG Realisatie<br/>
 **Afkorting:**  StUF-RZS<br/>
-**Status:** In gebruik
+**Status:** <span style="color:red">Einde ondersteuning</span>
 
-Regie- en zaakservices is een op [StUF-ZKN](https://vng-realisatie.github.io/StUF-ZKN/) gebaseerde berichtenstandaard voor de uitwisseling van gegevens tussen onder meer zaaksystemen en regiesystemen voor het zaakgericht regievoeren in het sociaal domein.
-	
-## Status en doorontwikkeling
-Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder de hier beschreven Wabo-BAG Services is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
+### <span style="color:red">In het kader van de verdere ontwikkeling van de gemeentelijke informatievoorziening richting API-standaarden heeft VNG Realisatie in 2025 een landelijke inventarisatie uitgevoerd. Op basis van de inventarisatie is het koppelvlak StUF-RZS aangemerkt als buiten scope voor verdere doorontwikkeling. Zie [hier](https://www.gemmaonline.nl/wiki/Uitkomsten_inventarisatie_StUF-koppelvlakken?mtm_campaign=nieuwsbrief&mtm_kwd=q2_2026) het daarover op 13 mei 2026 op GEMMA Online geplaatste bericht. Vanaf 1 september 2026 is dit koppelvlak administratief afgesloten.</span><br/>
+### <span style="color:red">T.b.v. de bestaande gebruikers van deze standaard handhaven we deze site.</span><br/>
+### <span style="color:red">Contacteer voor meer informatie <A HREF="mailto:standaarden.ondersteuning@vng.nl">Standaarden Ondersteuning</A>.</span>
+<br/>
 
 ## Inleiding
 
